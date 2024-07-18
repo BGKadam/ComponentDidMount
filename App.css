@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+.App{
+  font-size: larger;
+  color: blue;
+  text-shadow: 5px 5px 5px gray;
+}
